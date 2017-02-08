@@ -196,7 +196,7 @@ app.classes.add(new uml.Interface({
 
     app.sessionVars.push({name : 'username'});
 
-    addArea('OrderManagement');    
+    addArea('OrderManagement');
 
     addPage('OrderManagment');
 
